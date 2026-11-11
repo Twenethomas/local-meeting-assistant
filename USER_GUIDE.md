@@ -156,6 +156,11 @@ uninstall from Windows Settings > Apps > Installed apps.
   speaker model**. It needs an internet connection for the initial download;
   after installation it runs offline. If speaker labels appear wrong, disable
   the option or correct the transcript manually.
+- If you selected **Auto-detect** for the language and the app does not find
+  speech in a meeting that clearly had it, the app automatically retries with
+  English. If that succeeds, the meeting transcribes as usual — no changes
+  needed. If your meeting is in another language, pick it explicitly in
+  **Devices → Language** and retry.
 - If an online model download fails, choose **Retry**, or **Cancel** and rerun
   setup later.
 - If no microphone is found, open **Devices** to confirm the microphone is
