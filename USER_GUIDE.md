@@ -61,6 +61,15 @@ model, the app writes offline extractive notes. Older note files are not
 rewritten automatically; transcribe the saved recording again to regenerate
 them. Verify all draft notes against the recording before sharing.
 
+If the AI step fails (for example the cloud service times out), the transcript
+is still saved and the app says so instead of showing a failure. You can keep
+working with the transcript, and retry the AI notes later from the meeting
+page.
+
+Meeting audio is played back through the bundled FFmpeg player, so audio-only
+meetings are audible while the transcript highlight follows along. If no audio
+device is available, the player reports it and video playback continues.
+
 Open **Meetings** in the sidebar to browse prior recordings and their saved
 transcripts and notes. Entries are grouped into **Audio** and **Video**
 sections that collapse with a chevron control, and you can switch between a
