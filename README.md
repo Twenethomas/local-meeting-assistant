@@ -69,6 +69,7 @@ backend:
 | `VISPPA_UPDATE_MANIFEST_URL` | JSON update manifest URL |
 | `VISPPA_UPDATE_GITHUB_REPO` | GitHub `owner/repo` used for release checks |
 | `VISPPA_DISABLE_UPDATE_CHECK` | Set to `1` or `true` to turn off update checks |
+| `VISPPA_DIARIZATION_THRESHOLD` | Speaker clustering threshold (default `0.85`); lower it to split voices further apart, raise it to merge more aggressively |
 
 The previous `LOCAL_MEETING_ASSISTANT_*` and `LMA_*` names are still read as
 fallbacks. `GEMINI_API_KEY` is a server-side Supabase secret for the
