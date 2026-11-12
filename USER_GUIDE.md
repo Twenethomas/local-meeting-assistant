@@ -169,7 +169,13 @@ uninstall from Windows Settings > Apps > Installed apps.
   speech in a meeting that clearly had it, the app automatically retries with
   English. If that succeeds, the meeting transcribes as usual — no changes
   needed. If your meeting is in another language, pick it explicitly in
-  **Devices → Language** and retry.
+  **Devices → Language** or **Settings → Transcription** and retry. Your choice
+  is remembered for the next recording.
+- If the app is closed while a meeting is still being transcribed, Visppa asks
+  first. The words are saved as soon as transcription finishes, so an
+  interrupted speaker pass never loses the transcript.
+- After you sign in, Visppa offers to switch on Cloud AI and text sync in one
+  click. Any feature that needs an AI engine asks before it is used.
 - If an online model download fails, choose **Retry**, or **Cancel** and rerun
   setup later.
 - If no microphone is found, open **Devices** to confirm the microphone is
