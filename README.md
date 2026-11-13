@@ -79,8 +79,8 @@ fallbacks. `GEMINI_API_KEY` is a server-side Supabase secret for the
 
 | Installer | Download |
 |---|---|
-| **Recommended: Online Setup** (about 145 MB; downloads the model once during setup) | [Download for Windows](https://github.com/Twenethomas/local-meeting-assistant/releases/download/v1.3.0/Visppa-Online-Setup.exe) |
-| **Model-Bundled Setup** (about 560 MB; includes the model) | [Download with model included](https://github.com/Twenethomas/local-meeting-assistant/releases/download/v1.3.0/Visppa-Model-Bundled-Setup.exe) |
+| **Recommended: Online Setup** (about 145 MB; downloads the model once during setup) | [Download for Windows](https://github.com/Twenethomas/local-meeting-assistant/releases/latest/download/Visppa-Online-Setup.exe) |
+| **Model-Bundled Setup** (about 560 MB; includes the model) | [Download with model included](https://github.com/Twenethomas/local-meeting-assistant/releases/latest/download/Visppa-Model-Bundled-Setup.exe) |
 
 ## Install and get started
 

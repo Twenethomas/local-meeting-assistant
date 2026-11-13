@@ -9,8 +9,8 @@ recordings and documents are not uploaded.
 
 Choose one installer:
 
-- [Download Online Setup (about 145 MB)](https://github.com/Twenethomas/local-meeting-assistant/releases/download/v1.3.0/Visppa-Online-Setup.exe) — downloads the Whisper transcription model during setup. An internet connection is required for the initial model download.
-- [Download Model-Bundled Setup (about 560 MB)](https://github.com/Twenethomas/local-meeting-assistant/releases/download/v1.3.0/Visppa-Model-Bundled-Setup.exe) — includes the Whisper model, so setup does not need to download it.
+- [Download Online Setup (about 145 MB)](https://github.com/Twenethomas/local-meeting-assistant/releases/latest/download/Visppa-Online-Setup.exe) — downloads the Whisper transcription model during setup. An internet connection is required for the initial model download.
+- [Download Model-Bundled Setup (about 560 MB)](https://github.com/Twenethomas/local-meeting-assistant/releases/latest/download/Visppa-Model-Bundled-Setup.exe) — includes the Whisper model, so setup does not need to download it.
 
 1. Download and open the installer. If Windows SmartScreen appears, verify
    that you downloaded it from this page; the app is currently unsigned.
